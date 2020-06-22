@@ -1,4 +1,4 @@
-### Boilerplate code for email notifications from pythong script.
+### Boilerplate code for email notifications from python script.
 
 Code is taken and (marginally) added to from [real-python](https://realpython.com/python-send-email/).
 
